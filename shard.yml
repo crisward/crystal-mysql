@@ -3,8 +3,8 @@ version: 0.3.2
 
 dependencies:
   db:
-    github: crystal-lang/crystal-db
-    version: ~> 0.4.1
+    github: crisward/crystal-db
+    branch: master
 
 authors:
   - Juan Wajnerman <jwajnerman@manas.tech>
